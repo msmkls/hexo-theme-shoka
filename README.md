@@ -10,7 +10,7 @@ git clone https://github.com/amehime/hexo-theme-shoka.git ./themes/shoka
 ```
 
 2. Make changes to the root `_config.yml`
-  - update `theme` fragment as `shoka`.  
+  - update `theme` fragment as `shoka`。  
 
 3. Install the necessary plugins
   - [hexo-renderer-multi-markdown-it](https://www.npmjs.com/package/hexo-renderer-multi-markdown-it)
